@@ -1,0 +1,28 @@
+[package]
+name = "rdf-canonize-wasm"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+wasm-bindgen = "0.2.63"
+js-sys = "0.3.45"
+wee_alloc = { version = "0.4.5", optional = true }
+rdf-canonize-rs = { git = "ssh://github.com/gannan08/rdf-canonize-rust.git", branch = "main" }
+# rdf-canonize-rs = { path = "../../dev/rdf-canonize-rust" }
+
+# [dependencies.web-sys]
+# version = "0.3"
+# features = ["console"]
+
+[dev-dependencies]
+wasm-bindgen-test = "0.3.13"
+
+[profile.release]
+# Tell `rustc` to optimize for small code size.
+opt-level = "s"
+
+[package.metadata.wasm-pack.profile.release]
+wasm-opt = false

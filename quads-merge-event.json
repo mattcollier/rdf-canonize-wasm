@@ -1,0 +1,301 @@
+[
+  [
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      },
+      "object": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/webledger#ContinuityMergeEvent"
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/security#proof"
+      },
+      "object": {
+        "termType": "BlankNode",
+        "value": "_:b1"
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/webledger#parentHash"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "zQmPkZrQs9dyezAQkVniqkMjm5nP3cdWFBzNsnnFLrsNf9u",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/webledger#parentHash"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "zQmYDcw6hXTZHCYaPyuGLCo8jcNREidQs4ikwKdVyS5uwKA",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/webledger#parentHash"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "zQma45eMXmzKBXYwLdU7FvAEW3ekMy4fJjqEQVhYQFgwYAP",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/webledger#parentHash"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "zQmb6eicGxT6FAAZdxEzam2JpPu8ajiMJYhzPnhgHJJKh8f",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/webledger#parentHash"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "zQmc6b7weYQEu2NBDK9DB4HBc4bt2qQGbkvkEZBW6ajJ5F7",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/webledger#parentHash"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "zQmdxvSCwPjTvx3SAN2XHZ4uQpHKpbnHmns9BF8uZASW6Lx",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/webledger#parentHash"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "zQmePs3zy2fLPEsBXqGn2LPWSGYbzPy7CZTTz1f2ng3ysph",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b0"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/webledger#treeHash"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "zQmPkZrQs9dyezAQkVniqkMjm5nP3cdWFBzNsnnFLrsNf9u",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      },
+      "graph": {
+        "termType": "DefaultGraph",
+        "value": ""
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b2"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "http://purl.org/dc/terms/created"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "2018-12-21T23:40:20Z",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      "graph": {
+        "termType": "BlankNode",
+        "value": "_:b1"
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b2"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "http://purl.org/dc/terms/creator"
+      },
+      "object": {
+        "termType": "NamedNode",
+        "value": "https://bedrock.localhost:18443/consensus/continuity2017/voters/z6MkkabTusFkLnquxwHwCm28v59UX3P9Pn5scvc7fCaNvWUL"
+      },
+      "graph": {
+        "termType": "BlankNode",
+        "value": "_:b1"
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b2"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      },
+      "object": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/security#Ed25519Signature2018"
+      },
+      "graph": {
+        "termType": "BlankNode",
+        "value": "_:b1"
+      }
+    },
+    {
+      "subject": {
+        "termType": "BlankNode",
+        "value": "_:b2"
+      },
+      "predicate": {
+        "termType": "NamedNode",
+        "value": "https://w3id.org/security#jws"
+      },
+      "object": {
+        "termType": "Literal",
+        "value": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..JJ5c7mF7ru9XhPtrNqj1s6J74yqOC0HcNyK_Wa0OcfDaiODZFIJ2dXIrc_qqqvTWynIqJid6yXkKsGAzyi_HDQ",
+        "datatype": {
+          "termType": "NamedNode",
+          "value": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      },
+      "graph": {
+        "termType": "BlankNode",
+        "value": "_:b1"
+      }
+    }
+  ],
+  {
+    "algorithm": "URDNA2015",
+    "inputFormat": "application/n-quads",
+    "format": "application/n-quads"
+  }
+]
